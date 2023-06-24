@@ -1,0 +1,8 @@
+{
+    "name": "Prigent-Ads",
+    "homeurl": "https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz",
+    "frequency": "frequently",
+    "issues": "https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi",
+    "url": "https://v.firebog.net/hosts/Prigent-Ads.txt"
+}
+

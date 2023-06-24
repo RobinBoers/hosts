@@ -1,0 +1,10 @@
+{
+    "name": "CoinBlockerLists",
+    "description": "This list disables browser based miners such as coin-hive",
+    "homeurl": "https://zerodot1.gitlab.io/CoinBlockerListsWeb/",
+    "frequency": "frequently",
+    "issues": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/issues",
+    "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
+    "license": "GNU AGPLv3"
+}
+

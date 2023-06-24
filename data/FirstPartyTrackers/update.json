@@ -1,0 +1,9 @@
+{
+    "name": "First-party trackers",
+    "homeurl": "https://geoffrey.frogeye.fr",
+    "frequency": "frequently",
+    "issues": "https://git.frogeye.fr/geoffrey/eulaurarien/issues",
+    "url": "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt",
+    "license": "MIT"
+}
+
